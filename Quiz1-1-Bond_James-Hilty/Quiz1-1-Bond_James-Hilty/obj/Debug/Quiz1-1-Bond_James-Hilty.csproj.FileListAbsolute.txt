@@ -1,0 +1,7 @@
+C:\Users\mhilty\source\repos\Assessment\Quiz1-1-Bond_James-Hilty\Quiz1-1-Bond_James-Hilty\bin\Debug\Quiz1-1-Bond_James-Hilty.exe.config
+C:\Users\mhilty\source\repos\Assessment\Quiz1-1-Bond_James-Hilty\Quiz1-1-Bond_James-Hilty\bin\Debug\Quiz1-1-Bond_James-Hilty.exe
+C:\Users\mhilty\source\repos\Assessment\Quiz1-1-Bond_James-Hilty\Quiz1-1-Bond_James-Hilty\bin\Debug\Quiz1-1-Bond_James-Hilty.pdb
+C:\Users\mhilty\source\repos\Assessment\Quiz1-1-Bond_James-Hilty\Quiz1-1-Bond_James-Hilty\obj\Debug\Quiz1-1-Bond_James-Hilty.csprojAssemblyReference.cache
+C:\Users\mhilty\source\repos\Assessment\Quiz1-1-Bond_James-Hilty\Quiz1-1-Bond_James-Hilty\obj\Debug\Quiz1-1-Bond_James-Hilty.csproj.CoreCompileInputs.cache
+C:\Users\mhilty\source\repos\Assessment\Quiz1-1-Bond_James-Hilty\Quiz1-1-Bond_James-Hilty\obj\Debug\Quiz1-1-Bond_James-Hilty.exe
+C:\Users\mhilty\source\repos\Assessment\Quiz1-1-Bond_James-Hilty\Quiz1-1-Bond_James-Hilty\obj\Debug\Quiz1-1-Bond_James-Hilty.pdb

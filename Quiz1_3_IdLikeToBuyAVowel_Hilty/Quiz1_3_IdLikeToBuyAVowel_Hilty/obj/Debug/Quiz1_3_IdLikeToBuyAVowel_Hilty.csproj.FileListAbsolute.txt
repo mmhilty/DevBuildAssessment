@@ -1,0 +1,7 @@
+C:\Users\mhilty\source\repos\Assessment\Quiz1_3_IdLikeToBuyAVowel_Hilty\Quiz1_3_IdLikeToBuyAVowel_Hilty\bin\Debug\Quiz1_3_IdLikeToBuyAVowel_Hilty.exe.config
+C:\Users\mhilty\source\repos\Assessment\Quiz1_3_IdLikeToBuyAVowel_Hilty\Quiz1_3_IdLikeToBuyAVowel_Hilty\bin\Debug\Quiz1_3_IdLikeToBuyAVowel_Hilty.exe
+C:\Users\mhilty\source\repos\Assessment\Quiz1_3_IdLikeToBuyAVowel_Hilty\Quiz1_3_IdLikeToBuyAVowel_Hilty\bin\Debug\Quiz1_3_IdLikeToBuyAVowel_Hilty.pdb
+C:\Users\mhilty\source\repos\Assessment\Quiz1_3_IdLikeToBuyAVowel_Hilty\Quiz1_3_IdLikeToBuyAVowel_Hilty\obj\Debug\Quiz1_3_IdLikeToBuyAVowel_Hilty.csprojAssemblyReference.cache
+C:\Users\mhilty\source\repos\Assessment\Quiz1_3_IdLikeToBuyAVowel_Hilty\Quiz1_3_IdLikeToBuyAVowel_Hilty\obj\Debug\Quiz1_3_IdLikeToBuyAVowel_Hilty.csproj.CoreCompileInputs.cache
+C:\Users\mhilty\source\repos\Assessment\Quiz1_3_IdLikeToBuyAVowel_Hilty\Quiz1_3_IdLikeToBuyAVowel_Hilty\obj\Debug\Quiz1_3_IdLikeToBuyAVowel_Hilty.exe
+C:\Users\mhilty\source\repos\Assessment\Quiz1_3_IdLikeToBuyAVowel_Hilty\Quiz1_3_IdLikeToBuyAVowel_Hilty\obj\Debug\Quiz1_3_IdLikeToBuyAVowel_Hilty.pdb
